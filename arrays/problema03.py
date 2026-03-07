@@ -3,6 +3,8 @@
 # Link: https://leetcode.com/problems/product-of-array-except-self/
 # Dificuldade: Medio
 
+# Pamela Baron
+
 
 def produto_exceto_si_mesmo(numeros):
     tamanho = len(numeros)

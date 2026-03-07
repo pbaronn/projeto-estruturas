@@ -3,6 +3,9 @@
 # Link: https://leetcode.com/problems/reverse-linked-list/
 # Dificuldade: Facil
 
+# Pamela Baron
+
+
 
 # Definicao do No da lista encadeada
 class No:

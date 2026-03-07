@@ -3,6 +3,8 @@
 # Link: https://leetcode.com/problems/merge-two-sorted-lists/
 # Dificuldade: Facil
 
+# Pamela Baron
+
 class No:
     def __init__(self, valor=0, proximo=None):
         self.valor = valor

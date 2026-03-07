@@ -3,6 +3,7 @@
 # Link: https://leetcode.com/problems/maximum-subarray/
 # Dificuldade: Medio
 
+# Dereck Conink
 
 def soma_maxima_subarray(numeros):
     soma_atual = numeros[0]

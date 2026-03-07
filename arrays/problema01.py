@@ -3,7 +3,7 @@
 # Link:  https://leetcode.com/problems/two-sum/
 # Dificuldade: Facil
 
-
+# Pâmela Baron
 
 def soma_dois_numeros(numeros, alvo):
     # Dicionario que vai guardar: { numero_visto: indice_dele }

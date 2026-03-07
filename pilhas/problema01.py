@@ -3,6 +3,10 @@
 # Link: https://leetcode.com/problems/min-stack/
 # Dificuldade: Medio
 
+# Pamela Baron
+
+
+
 class PilhaComMinimo:
 
     def __init__(self):
