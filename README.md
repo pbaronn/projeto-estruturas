@@ -5,7 +5,7 @@ Resolução de problemas clássicos de entrevistas técnicas, utilizando estrutu
 
 ### Integrantes
 Dereck Conink,
-Giovania Luiza e 
+Geovania Luiza e 
 Pâmela Baron
 
 ---
