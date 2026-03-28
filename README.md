@@ -62,5 +62,5 @@ Ao executar o script, os resultados serão exibidos diretamente no terminal.
 Está disponível no arquivo:
 
 ```
-relatorio_estruturas_de_dados.docx
+Relatorio Estruturas de Dados.pdf
 ```
