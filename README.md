@@ -3,6 +3,11 @@
 ## Atividade prática
 Resolução de problemas clássicos de entrevistas técnicas, utilizando estruturas de dados fundamentais em Python.
 
+### Integrantes
+Dereck Conink
+Giovania Luiza
+Pâmela Baron
+
 ---
 
 ## Estrutura do Projeto
@@ -30,6 +35,9 @@ pilhas/
 └── problema03.py
 
 README.md
+
+Relatorio Estruturas de Dados.pdf
+
 ```
 
 ---
