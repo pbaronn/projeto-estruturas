@@ -4,8 +4,8 @@
 Resolução de problemas clássicos de entrevistas técnicas, utilizando estruturas de dados fundamentais em Python.
 
 ### Integrantes
-Dereck Conink
-Giovania Luiza
+Dereck Conink,
+Giovania Luiza e 
 Pâmela Baron
 
 ---
